@@ -7,6 +7,11 @@
 ### Contact Me
 - 📧 [Email me](mailto:your-email@example.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+
+### Technologies
+
+HTML, CSS, Python, JavaScript, React, Django, Spring Boot, PostgreSQL, MongoDB
+- 
 <!--
 **AhmedOs99/AhmedOs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
