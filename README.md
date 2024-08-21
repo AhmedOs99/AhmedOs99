@@ -9,7 +9,6 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 ### Technologies
-
 HTML, CSS, Python, JavaScript, React, Django, Spring Boot, PostgreSQL, MongoDB
 - 
 <!--
