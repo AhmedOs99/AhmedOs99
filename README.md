@@ -19,6 +19,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/topics/javascript)
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)](https://github.com/topics/flask)
 [![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)](https://github.com/topics/sql)
+[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=deep-learning&logoColor=white)](https://github.com/topics/deep-learning)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://github.com/topics/c-plus-plus)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-EA0C2A?logo=matlab&logoColor=white)](https://github.com/topics/matlab)
 [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/topics/qt)
