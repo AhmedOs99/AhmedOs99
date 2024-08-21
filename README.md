@@ -11,14 +11,17 @@
 ### Technologies
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python)
 [![AI](https://img.shields.io/badge/-AI-000000?logo=ai&logoColor=white)](https://github.com/topics/artificial-intelligence)
+[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?logo=machine-learning&logoColor=white)](https://github.com/topics/machine-learning)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://github.com/topics/nodejs)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://github.com/topics/html)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://github.com/topics/css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/topics/javascript)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://github.com/topics/react)
-[![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)](https://github.com/topics/django)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)](https://github.com/topics/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://github.com/topics/postgresql)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
+[![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)](https://github.com/topics/flask)
+[![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)](https://github.com/topics/sql)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://github.com/topics/c-plus-plus)
+[![MATLAB](https://img.shields.io/badge/-MATLAB-EA0C2A?logo=matlab&logoColor=white)](https://github.com/topics/matlab)
+
 
 - 
 <!--
