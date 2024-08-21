@@ -9,9 +9,10 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 ### Technologies
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python)
+[![AI](https://img.shields.io/badge/-AI-000000?logo=ai&logoColor=white)](https://github.com/topics/artificial-intelligence)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://github.com/topics/html)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://github.com/topics/css)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/topics/javascript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://github.com/topics/react)
 [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)](https://github.com/topics/django)
