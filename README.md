@@ -9,7 +9,16 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 ### Technologies
-HTML, CSS, Python, JavaScript, React, Django, Spring Boot, PostgreSQL, MongoDB
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://github.com/topics/html)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://github.com/topics/css)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/topics/javascript)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://github.com/topics/react)
+[![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)](https://github.com/topics/django)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)](https://github.com/topics/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://github.com/topics/postgresql)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
+
 - 
 <!--
 **AhmedOs99/AhmedOs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
