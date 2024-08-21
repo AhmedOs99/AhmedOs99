@@ -1,6 +1,8 @@
 ## Hi there, I'm Ahmed 👋
 
-### I am a Biomedical Software Engineer interested in machine learning and web development
+### I am a Biomedical Software Engineer, interested in Machine Learning and Web Development
+
+📄 Check out my [CV](link-to-your-cv) to learn more about my experience and skills.
 <!--
 **AhmedOs99/AhmedOs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
