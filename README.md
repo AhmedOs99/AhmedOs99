@@ -1,6 +1,7 @@
 ## Hi there, I'm Ahmed 👋
 
 ### I am a Biomedical Software Engineer, graduated from Cairo University. I am interested in Machine Learning and Web Development.
+I am always open to collaborating on diverse and groundbreaking projects."
 
 📄 Check out my [CV](link-to-your-cv) to know more about my experience and skills.
 
