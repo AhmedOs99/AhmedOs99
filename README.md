@@ -21,8 +21,9 @@
 [![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white)](https://github.com/topics/sql)
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)](https://github.com/topics/c-plus-plus)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-EA0C2A?logo=matlab&logoColor=white)](https://github.com/topics/matlab)
-
-
+[![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/topics/qt)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://github.com/topics/bootstrap)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://github.com/topics/bootstrap)
 - 
 <!--
 **AhmedOs99/AhmedOs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
