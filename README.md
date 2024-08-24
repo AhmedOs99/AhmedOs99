@@ -3,7 +3,7 @@
 ### I am a Biomedical Software Engineer, graduated from Cairo University. I am interested in Machine Learning and Web Development.
 I am open to collaborating on diverse and innovative projects.
 
-📄 Check out my [CV](link-to-your-cv) to know more about my experience and skills.
+📄 Check out my [CV](https://drive.google.com/drive/u/0/folders/1zkxJ2eph-4Lh1mroKS42O52uqOzm0bHE) to know more about my experience and skills.
 
 ### Contact Me
 - 📧 [Email me](mailto:your-email@example.com)
