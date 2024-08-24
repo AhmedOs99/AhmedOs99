@@ -7,7 +7,7 @@ I am open to collaborating on diverse and innovative projects.
 
 ### Contact Me
 - 📧 [ahmed2013.ao48@gmail.com]
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-osama-406206267/)
 
 ### Technologies
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python)
