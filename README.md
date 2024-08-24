@@ -6,7 +6,7 @@ I am open to collaborating on diverse and innovative projects.
 📄 Check out my [CV](https://drive.google.com/drive/u/0/folders/1zkxJ2eph-4Lh1mroKS42O52uqOzm0bHE) to know more about my experience and skills.
 
 ### Contact Me
-- 📧 [Email me](ahmed2013.ao48@gmail.com)
+- 📧 [ahmed2013.ao48@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
 ### Technologies
